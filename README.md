@@ -12,4 +12,4 @@ You can also use `~` for a console modified from [hamsterready's repo](https://g
 not much to do with it, just thought it was cool.
 
 Also included a couple sounds.  I can't remember if i used [bfxr](https://www.bfxr.net/) or
-leshy's [SFMaker] to create them.
+leshy's [SFMaker](https://www.leshylabs.com/apps/sfMaker/) to create them.
